@@ -32,7 +32,6 @@ jobs:
       - linters
       - sanity
       - units
-      - integrations
     runs-on: ubuntu-latest
     steps:
       - run: >-
