@@ -1,7 +1,7 @@
 <!-- Add CI and code coverage badges here. Samples included below. -->
 [![CI](https://github.com/ansible-collections/cisco.cvd_compute/workflows/CI/badge.svg?event=push)](https://github.com/ansible-collections/cisco.cvd_compute/actions) [![Codecov](https://img.shields.io/codecov/c/github/ansible-collections/cisco.cvd_compute)](https://codecov.io/gh/ansible-collections/cisco.cvd_compute)
 
-# Cisco/Red Hat Ansible Validated Content Collection for Cisco UCS Compute 
+# Ansible Validated Content Collection for Cisco UCS Compute 
 <!-- Describe the collection and why a user would want to use it. What does the collection do? -->
 This collection includes a variety of validated Ansible roles to help automate the day-2 management of Cisco UCS compute.
 
