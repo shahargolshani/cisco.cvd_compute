@@ -3,7 +3,7 @@
 
 # Ansible Validated Content Collection for Cisco UCS Compute 
 <!-- Describe the collection and why a user would want to use it. What does the collection do? -->
-This collection includes a variety of validated Ansible roles to help automate the day-2 management of Cisco UCS compute.
+This collection includes a variety of validated Ansible roles to automate and manage Day-2 use cases with Cisco UCS.
 
 ## Dependencies
 This collection leverages Ansible Certified collection of modules for Cisco Intersight [Cisco Intersight API](https://intersight.com/apidocs/introduction/overview/) to access the Intersight Management Information Model.
