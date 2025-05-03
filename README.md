@@ -6,7 +6,7 @@
 This collection includes a variety of validated Ansible roles to automate and manage Day-2 use cases with Cisco UCS.
 
 ## Dependencies
-This collection uses Ansible Certified collection for Cisco Intersight [cisco.intersight](https://galaxy.ansible.com/ui/repo/published/cisco/intersight) and [Cisco Intersight API](https://intersight.com/apidocs/introduction/overview/) to access the Intersight Management Information Model.
+This collection uses [cisco.intersight](https://galaxy.ansible.com/ui/repo/published/cisco/intersight) certified ansible collection and [Cisco Intersight API](https://intersight.com/apidocs/introduction/overview/) to access the Intersight Management Information Model.
 
 ## Tested with Ansible
 
