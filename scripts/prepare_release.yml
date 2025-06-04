@@ -31,7 +31,7 @@
           line: "version: {{ version }}"
 
       - name: Update documentation
-        ansible.builtin.command: 'antsibull-docs collection-plugins cisco.ucs_compute --dest-dir {{ playbook_dir }}/../docs --use-current --output-format simplified-rst --fqcn-plugin-names'
+        ansible.builtin.command: 'antsibull-docs collection-plugins cisco.cvd_compute --dest-dir {{ playbook_dir }}/../docs --use-current --output-format simplified-rst --fqcn-plugin-names'
 
       - name: Refresh the changelog
         ansible.builtin.command: 'antsibull-changelog release --verbose --version {{ version }}'
